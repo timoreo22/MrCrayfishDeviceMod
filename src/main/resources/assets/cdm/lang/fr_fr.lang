@@ -1,0 +1,32 @@
+# not needed
+itemGroup.cdmTabDevice=MrCrayfish's Device Mod
+
+tile.laptop.name=Ordinateur
+tile.router.name=Routeur
+tile.printer.name=Imprimante
+tile.paper.name=Papier
+tile.office_chair.name=Chaise de Bureau
+
+item.flash_drive.name=Clé USB
+item.printed_paper.name=Papier imprimé
+item.ethernet_cable.name=Cable Ethernet
+
+app.cdm.settings.name=Paramètres 
+app.cdm.bank.name=Banque
+app.cdm.example.name=Composants IU 
+app.cdm.file_browser.name=Exploreur de Fichiers
+app.cdm.note_stash.name=Bloc-Note
+# I don't think that there is a translate for that
+app.cdm.pixel_painter.name=Pixel Painter
+# Possible translate  email
+app.cdm.ender_mail.name=EnderMail
+app.cdm.boat_racers.name=Course de Bateaux
+# No translate  already good
+app.cdm.mine_bay.name=MineBay
+
+message.select_router=Selectionnez maintenant un routeur pour y connecter ce périphérique.
+message.invalid_cable=Merci de selectionner un périphérique avant de l'ajouter à ce routeur.
+message.router_max_devices=Le nombre maximum de périphériques à été atteint.
+message.device_already_connected=Le périphérique sélectionné est déja connecté à ce routeur.
+message.successful_connection=Vous avez bien connecté le périphérique à ce routeur.
+message.successful_registered=Vous avez bien enregistré le périphérique à ce routeur.
